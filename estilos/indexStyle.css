@@ -1,0 +1,41 @@
+/* .Oradores{
+    padding: 2rem;
+    margin: auto 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: justify;
+}
+
+.encabezado{
+    display: flex;
+    flex-direction: row;
+    height: 4rem;
+    background-color: black;
+}
+
+.izq{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+}
+.der{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: 1rem;
+    padding: 1rem;
+}
+ */
+.carousel-item img {
+filter: brightness(50%);
+}
+
+#foot {
+    background-color: rgb(30, 81, 110) ;
+}
+
+#carousel {
+    width: 50%;
+    
+}
